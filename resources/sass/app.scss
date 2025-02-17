@@ -1,0 +1,12 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Bootstrap Variables and Functions
+@use 'bootstrap/scss/functions';
+@use 'bootstrap/scss/variables';
+
+// Custom Variables
+@use 'variables'; // Ensure this file exists and is correctly set up
+
+// Bootstrap
+@use 'bootstrap/scss/bootstrap';
